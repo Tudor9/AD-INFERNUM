@@ -1,0 +1,129 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 18363.1556; Version 1909; 64bit' Language: 'en' Physical Memory: 6076 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Tudor/Desktop/Facultate/sem2/II/proiect/AD INFERNUM (Project)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51414
+Successfully changed project path to: C:/Users/Tudor/Desktop/Facultate/sem2/II/proiect/AD INFERNUM (Project)
+C:/Users/Tudor/Desktop/Facultate/sem2/II/proiect/AD INFERNUM (Project)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 63.47 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Tudor/Desktop/Facultate/sem2/II/proiect/AD INFERNUM (Project)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) RX Vega 11 Graphics (ID=0x15dd)
+    Vendor:   
+    VRAM:     3038 MB
+    Driver:   27.20.15003.1004
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56016
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.035814 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 67.79 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.328 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.019298 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.02 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.822 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.68 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2318 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.5 MB.
+System memory in use after: 101.6 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2755.
+Total: 3.134600 ms (FindLiveObjects: 0.332500 ms CreateObjectMapping: 0.076300 ms MarkObjects: 2.578700 ms  DeleteObjects: 0.145400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.216500 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.52 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.152 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2309 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2758.
+Total: 4.075300 ms (FindLiveObjects: 0.603100 ms CreateObjectMapping: 0.151200 ms MarkObjects: 3.183700 ms  DeleteObjects: 0.134400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '808b38208330a58b4386af2b8387e233') in 0.038677 seconds
+  Import took 0.046260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001588 seconds.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '808b38208330a58b4386af2b8387e233') in 0.004919 seconds
+  Import took 0.010960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6011.843105 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(74ccc3fbddb9a44479743bd1e4f98d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(74ccc3fbddb9a44479743bd1e4f98d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c480edaa539a2d48f3101c697884059') in 0.019775 seconds
+  Import took 0.025164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.478643 seconds.
+  path: Assets/Scripts/DataAccess/AdInfernumDb.cs
+  artifactKey: Guid(60f8cdace7730a94ca66d40a614d8989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DataAccess/AdInfernumDb.cs using Guid(60f8cdace7730a94ca66d40a614d8989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a8c129385d049ef1a00ad8fc3a6694b') in 0.051063 seconds
+  Import took 0.057439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022644 seconds.
+  path: Assets/Scripts/DataAccess/AdInfernumDb.cs
+  artifactKey: Guid(60f8cdace7730a94ca66d40a614d8989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DataAccess/AdInfernumDb.cs using Guid(60f8cdace7730a94ca66d40a614d8989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a8c129385d049ef1a00ad8fc3a6694b') in 0.005993 seconds
+  Import took 0.011808 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

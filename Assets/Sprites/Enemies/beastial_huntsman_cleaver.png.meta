@@ -1,0 +1,2115 @@
+fileFormatVersion: 2
+guid: 114abcca2fdd0674da5b917f02e4cec0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5974792543279920075
+    second: beastial_huntsman_cleaver_0
+  - first:
+      213: 2725458571287844629
+    second: beastial_huntsman_cleaver_1
+  - first:
+      213: -1673186753534294584
+    second: beastial_huntsman_cleaver_2
+  - first:
+      213: -4044788414986602575
+    second: beastial_huntsman_cleaver_3
+  - first:
+      213: 521383790166696674
+    second: beastial_huntsman_cleaver_4
+  - first:
+      213: 3173035317035000697
+    second: beastial_huntsman_cleaver_5
+  - first:
+      213: -2579766343472245050
+    second: beastial_huntsman_cleaver_6
+  - first:
+      213: -4955665861509138554
+    second: beastial_huntsman_cleaver_7
+  - first:
+      213: -915417608461779470
+    second: beastial_huntsman_cleaver_8
+  - first:
+      213: 3171934541187065420
+    second: beastial_huntsman_cleaver_9
+  - first:
+      213: 8085507104456672984
+    second: beastial_huntsman_cleaver_10
+  - first:
+      213: 3744809819860080734
+    second: beastial_huntsman_cleaver_11
+  - first:
+      213: -8567724501870913603
+    second: beastial_huntsman_cleaver_12
+  - first:
+      213: -7370267946825632949
+    second: beastial_huntsman_cleaver_13
+  - first:
+      213: -617738834650124279
+    second: beastial_huntsman_cleaver_14
+  - first:
+      213: 3424222130110913477
+    second: beastial_huntsman_cleaver_15
+  - first:
+      213: 66897690696984757
+    second: beastial_huntsman_cleaver_16
+  - first:
+      213: -6472358331196315900
+    second: beastial_huntsman_cleaver_17
+  - first:
+      213: 2170235721238341719
+    second: beastial_huntsman_cleaver_18
+  - first:
+      213: 6895761171432234359
+    second: beastial_huntsman_cleaver_19
+  - first:
+      213: -4662067228491195060
+    second: beastial_huntsman_cleaver_20
+  - first:
+      213: -7891721488284648869
+    second: beastial_huntsman_cleaver_21
+  - first:
+      213: 3612373715993424292
+    second: beastial_huntsman_cleaver_22
+  - first:
+      213: -461349624397667890
+    second: beastial_huntsman_cleaver_23
+  - first:
+      213: -7066615662202783054
+    second: beastial_huntsman_cleaver_24
+  - first:
+      213: -5756056809346150412
+    second: beastial_huntsman_cleaver_25
+  - first:
+      213: -8397092086296011273
+    second: beastial_huntsman_cleaver_26
+  - first:
+      213: -4971538654603479398
+    second: beastial_huntsman_cleaver_27
+  - first:
+      213: -7087601597982956680
+    second: beastial_huntsman_cleaver_28
+  - first:
+      213: -9037873196103890962
+    second: beastial_huntsman_cleaver_29
+  - first:
+      213: -2707730538268725224
+    second: beastial_huntsman_cleaver_30
+  - first:
+      213: 8058385552557376419
+    second: beastial_huntsman_cleaver_31
+  - first:
+      213: 4337587918788546231
+    second: beastial_huntsman_cleaver_32
+  - first:
+      213: -3800171817304910395
+    second: beastial_huntsman_cleaver_33
+  - first:
+      213: -3958124832768413193
+    second: beastial_huntsman_cleaver_34
+  - first:
+      213: 4095307565701371758
+    second: beastial_huntsman_cleaver_35
+  - first:
+      213: -2104901791238680213
+    second: beastial_huntsman_cleaver_36
+  - first:
+      213: -6183316166675883726
+    second: beastial_huntsman_cleaver_37
+  - first:
+      213: -2991359145179585909
+    second: beastial_huntsman_cleaver_38
+  - first:
+      213: 3510127014507473377
+    second: beastial_huntsman_cleaver_39
+  - first:
+      213: -2708752055794039876
+    second: beastial_huntsman_cleaver_40
+  - first:
+      213: -4184020038109002860
+    second: beastial_huntsman_cleaver_41
+  - first:
+      213: -771424561143621391
+    second: beastial_huntsman_cleaver_42
+  - first:
+      213: 8366168767437608900
+    second: beastial_huntsman_cleaver_43
+  - first:
+      213: 3985286318641645735
+    second: beastial_huntsman_cleaver_44
+  - first:
+      213: -6692386585981246307
+    second: beastial_huntsman_cleaver_45
+  - first:
+      213: -318706859592975318
+    second: beastial_huntsman_cleaver_46
+  - first:
+      213: 1281874793639214364
+    second: beastial_huntsman_cleaver_47
+  - first:
+      213: -4726871202525430810
+    second: beastial_huntsman_cleaver_48
+  - first:
+      213: 6126850057961045131
+    second: beastial_huntsman_cleaver_49
+  - first:
+      213: -3435525127582418466
+    second: beastial_huntsman_cleaver_50
+  - first:
+      213: 856080402840315159
+    second: beastial_huntsman_cleaver_51
+  - first:
+      213: -746754877546052704
+    second: beastial_huntsman_cleaver_52
+  - first:
+      213: 8260243750918483439
+    second: beastial_huntsman_cleaver_53
+  - first:
+      213: 8653260358050957792
+    second: beastial_huntsman_cleaver_54
+  - first:
+      213: -9019628958428184908
+    second: beastial_huntsman_cleaver_55
+  - first:
+      213: 2173655818417970593
+    second: beastial_huntsman_cleaver_56
+  - first:
+      213: -7304572679837243550
+    second: beastial_huntsman_cleaver_57
+  - first:
+      213: -3114127183054099159
+    second: beastial_huntsman_cleaver_58
+  - first:
+      213: -4635434112172839379
+    second: beastial_huntsman_cleaver_59
+  - first:
+      213: -6710648622134536981
+    second: beastial_huntsman_cleaver_60
+  - first:
+      213: -4140854147074405849
+    second: beastial_huntsman_cleaver_61
+  - first:
+      213: -8173446176240322463
+    second: beastial_huntsman_cleaver_62
+  - first:
+      213: 180265830392378515
+    second: beastial_huntsman_cleaver_63
+  - first:
+      213: 3248536844616860688
+    second: beastial_huntsman_cleaver_64
+  - first:
+      213: -6472816830391547567
+    second: beastial_huntsman_cleaver_65
+  - first:
+      213: 2236650128331696937
+    second: beastial_huntsman_cleaver_66
+  - first:
+      213: 3728610942587554951
+    second: beastial_huntsman_cleaver_67
+  - first:
+      213: 5466320276448427330
+    second: beastial_huntsman_cleaver_68
+  - first:
+      213: 3262663956145552121
+    second: beastial_huntsman_cleaver_69
+  - first:
+      213: 6537987709813006983
+    second: beastial_huntsman_cleaver_70
+  - first:
+      213: -460348631292880673
+    second: beastial_huntsman_cleaver_71
+  - first:
+      213: 7235461923829450339
+    second: beastial_huntsman_cleaver_72
+  - first:
+      213: -6486738265829796312
+    second: beastial_huntsman_cleaver_73
+  - first:
+      213: 8737195216073714769
+    second: beastial_huntsman_cleaver_74
+  - first:
+      213: 7248425407012291500
+    second: beastial_huntsman_cleaver_75
+  - first:
+      213: -9140210734715560127
+    second: beastial_huntsman_cleaver_76
+  - first:
+      213: 1051440960064450961
+    second: beastial_huntsman_cleaver_77
+  - first:
+      213: 1321522201476398637
+    second: beastial_huntsman_cleaver_78
+  - first:
+      213: -5515181383756244536
+    second: beastial_huntsman_cleaver_79
+  - first:
+      213: 278737735141907786
+    second: beastial_huntsman_cleaver_80
+  - first:
+      213: 5134812113099127022
+    second: beastial_huntsman_cleaver_81
+  - first:
+      213: -4671330873815176796
+    second: beastial_huntsman_cleaver_82
+  - first:
+      213: -297935602458613112
+    second: beastial_huntsman_cleaver_83
+  - first:
+      213: 4921942106944972450
+    second: beastial_huntsman_cleaver_84
+  - first:
+      213: 2908385620607006134
+    second: beastial_huntsman_cleaver_85
+  - first:
+      213: 5686608839171196536
+    second: beastial_huntsman_cleaver_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 352
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cc52376d5451da0800000000000000
+      internalID: -5974792543279920075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 352
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517d7a76126c2d520800000000000000
+      internalID: 2725458571287844629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 352
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c503b83385a7c8e0800000000000000
+      internalID: -1673186753534294584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 352
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7bb15ed560ed7c0800000000000000
+      internalID: -4044788414986602575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 352
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e268847bc35c3700800000000000000
+      internalID: 521383790166696674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 352
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973e3a33fc2e80c20800000000000000
+      internalID: 3173035317035000697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 352
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c614d5cd24d23cd0800000000000000
+      internalID: -2579766343472245050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 352
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b73bb720f93bb0800000000000000
+      internalID: -4955665861509138554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 352
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd7f720988cb43f0800000000000000
+      internalID: -915417608461779470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 352
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c462f3ad8a9f40c20800000000000000
+      internalID: 3171934541187065420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 352
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d689066fdd753070800000000000000
+      internalID: 8085507104456672984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 373
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e589728b0bc38f330800000000000000
+      internalID: 3744809819860080734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 372
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7d29495f3591980800000000000000
+      internalID: -8567724501870913603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 373
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43b20a0a5c87b990800000000000000
+      internalID: -7370267946825632949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 373
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90037b48dc95d67f0800000000000000
+      internalID: -617738834650124279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 329
+        width: 5
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbda4192e7458f20800000000000000
+      internalID: 3424222130110913477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 344
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8a942681bade000800000000000000
+      internalID: 66897690696984757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 342
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407e00ac3609d26a0800000000000000
+      internalID: -6472358331196315900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_18
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 337
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758664bd3e93e1e10800000000000000
+      internalID: 2170235721238341719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 304
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d5627004aa2bf50800000000000000
+      internalID: 6895761171432234359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 304
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ddace6e820d4fb0800000000000000
+      internalID: -4662067228491195060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 304
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5af9785e19fa7290800000000000000
+      internalID: -7891721488284648869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 304
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1feb961cab12230800000000000000
+      internalID: 3612373715993424292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 304
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1648006f4f899f0800000000000000
+      internalID: -461349624397667890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 304
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baf03aee765eed90800000000000000
+      internalID: -7066615662202783054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 304
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff44fb24d06e10b0800000000000000
+      internalID: -5756056809346150412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 304
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd151abc39877b80800000000000000
+      internalID: -8397092086296011273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 304
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a967c391feb810bb0800000000000000
+      internalID: -4971538654603479398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_28
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 304
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8732cbaf5e7c3ad90800000000000000
+      internalID: -7087601597982956680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 304
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7043d7636039280800000000000000
+      internalID: -9037873196103890962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 322
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810f30feb653c6ad0800000000000000
+      internalID: -2707730538268725224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3825307f225df60800000000000000
+      internalID: 8058385552557376419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 256
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beca690b35323c30800000000000000
+      internalID: 4337587918788546231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 256
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c51718cdd3134bc0800000000000000
+      internalID: -3800171817304910395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 256
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1bf268f6ae119c0800000000000000
+      internalID: -3958124832768413193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 256
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67999b788475d830800000000000000
+      internalID: 4095307565701371758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 256
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61922e19f2e9c2e0800000000000000
+      internalID: -2104901791238680213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2399a5ff4b2703aa0800000000000000
+      internalID: -6183316166675883726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 256
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8264f3d4be8c76d0800000000000000
+      internalID: -2991359145179585909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 256
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e968381ce976b030800000000000000
+      internalID: 3510127014507473377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_40
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 256
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb389c95b54986ad0800000000000000
+      internalID: -2708752055794039876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 256
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493856771ff5fe5c0800000000000000
+      internalID: -4184020038109002860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 277
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8d506e2795b45f0800000000000000
+      internalID: -771424561143621391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 276
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7161a0b2a9a1470800000000000000
+      internalID: 8366168767437608900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_44
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 277
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a80cd6bac49e4730800000000000000
+      internalID: 3985286318641645735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_45
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 277
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94affa9bdddf13a0800000000000000
+      internalID: -6692386585981246307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 208
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cfa7ebcc9b39bf0800000000000000
+      internalID: -318706859592975318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_47
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 208
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d746945522ac110800000000000000
+      internalID: 1281874793639214364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 208
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebb2727fa7c66eb0800000000000000
+      internalID: -4726871202525430810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 208
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c79d09aa1f60550800000000000000
+      internalID: 6126850057961045131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 208
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9758149109250d0800000000000000
+      internalID: -3435525127582418466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_51
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 207
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7156876379861eb00800000000000000
+      internalID: 856080402840315159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 208
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3c395356ef2a5f0800000000000000
+      internalID: -746754877546052704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 208
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fede2a34de742a270800000000000000
+      internalID: 8260243750918483439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 208
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9c89ed27e861870800000000000000
+      internalID: 8653260358050957792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_55
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 208
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bebf071047d3d280800000000000000
+      internalID: -9019628958428184908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_56
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 208
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad93c843706a2e10800000000000000
+      internalID: 2173655818417970593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_57
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 219
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267274659d1f0aa90800000000000000
+      internalID: -7304572679837243550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 209
+        width: 5
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d2cac83d568c4d0800000000000000
+      internalID: -3114127183054099159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_59
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 208
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ea53c0c31abafb0800000000000000
+      internalID: -4635434112172839379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_60
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 210
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4d439f1acfed2a0800000000000000
+      internalID: -6710648622134536981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_61
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 213
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a4de8a71bb886c0800000000000000
+      internalID: -4140854147074405849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_67
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 182
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cc092b5efaeb330800000000000000
+      internalID: 3728610942587554951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_68
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 160
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d393264554cdb40800000000000000
+      internalID: 5466320276448427330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_69
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 160
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fab68fe49f474d20800000000000000
+      internalID: 3262663956145552121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_70
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 161
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782264dae299bba50800000000000000
+      internalID: 6537987709813006983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_71
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 161
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd853fedb538c99f0800000000000000
+      internalID: -460348631292880673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 128
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36608bbd846896460800000000000000
+      internalID: 7235461923829450339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_73
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 135
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826184a5ae97af5a0800000000000000
+      internalID: -6486738265829796312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_74
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 134
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ce053e1c0c04970800000000000000
+      internalID: 8737195216073714769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_75
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 130
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca342edf084979460800000000000000
+      internalID: 7248425407012291500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_76
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 112
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f111183c2772180800000000000000
+      internalID: -9140210734715560127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_77
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 86
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ffee7bf7779e00800000000000000
+      internalID: 1051440960064450961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_78
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 64
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2efac5c07df65210800000000000000
+      internalID: 1321522201476398637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_79
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 64
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c99c5d80c32673b0800000000000000
+      internalID: -5515181383756244536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_80
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 65
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d51a84e764ed300800000000000000
+      internalID: 278737735141907786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_81
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 65
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee875a55964824740800000000000000
+      internalID: 5134812113099127022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_82
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 35
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a96eede1591c2fb0800000000000000
+      internalID: -4671330873815176796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_83
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 21
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a2389e5258ddbf0800000000000000
+      internalID: -297935602458613112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_84
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 32
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a62e79c4404e4440800000000000000
+      internalID: 4921942106944972450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_85
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 32
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5722a0059ac5820800000000000000
+      internalID: 2908385620607006134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beastial_huntsman_cleaver_86
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 33
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876456b3c94eaee40800000000000000
+      internalID: 5686608839171196536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

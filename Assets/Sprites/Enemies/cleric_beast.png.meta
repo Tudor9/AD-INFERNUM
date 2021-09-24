@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: 4127c9104182ddf498c390c0103f6c99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1063887556525366673
+    second: cleric_beast_8
+  - first:
+      213: 3923257188589924026
+    second: cleric_beast_9
+  - first:
+      213: 4982947409168529518
+    second: cleric_beast_10
+  - first:
+      213: 6919241026026786941
+    second: cleric_beast_11
+  - first:
+      213: 7958118725799779181
+    second: cleric_beast_12
+  - first:
+      213: -5696052718987580758
+    second: cleric_beast_20
+  - first:
+      213: -1179756826658497607
+    second: cleric_beast_21
+  - first:
+      213: 6664872490406998551
+    second: cleric_beast_22
+  - first:
+      213: 254167988800607028
+    second: cleric_beast_23
+  - first:
+      213: 3333540641089509798
+    second: cleric_beast_24
+  - first:
+      213: -7368569270821527175
+    second: cleric_beast_25
+  - first:
+      213: 3342583812712036652
+    second: cleric_beast_26
+  - first:
+      213: 3774424849399906453
+    second: cleric_beast_27
+  - first:
+      213: 1858567128223136022
+    second: cleric_beast_28
+  - first:
+      213: 1932771066997031387
+    second: cleric_beast_29
+  - first:
+      213: -6253097909590558456
+    second: cleric_beast_30
+  - first:
+      213: 2415523212764758130
+    second: cleric_beast_46
+  - first:
+      213: 8884183557374637466
+    second: cleric_beast_47
+  - first:
+      213: -6280127270009060166
+    second: cleric_beast_48
+  - first:
+      213: 9044084485706383850
+    second: cleric_beast_49
+  - first:
+      213: 1799781595967297906
+    second: cleric_beast_50
+  - first:
+      213: 1201608074691587688
+    second: cleric_beast_51
+  - first:
+      213: 5865161697830948452
+    second: cleric_beast_52
+  - first:
+      213: -2987117139329578175
+    second: cleric_beast_53
+  - first:
+      213: -8202868218607974420
+    second: cleric_beast_54
+  - first:
+      213: 5780906050018537949
+    second: cleric_beast_55
+  - first:
+      213: -5207849593513001586
+    second: cleric_beast_56
+  - first:
+      213: -3421573290071557611
+    second: cleric_beast_57
+  - first:
+      213: 3420617432865383338
+    second: cleric_beast_58
+  - first:
+      213: -6445637593246682686
+    second: cleric_beast_59
+  - first:
+      213: 7022548371324728215
+    second: cleric_beast_60
+  - first:
+      213: -8701859785932286918
+    second: cleric_beast_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cleric_beast_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 531
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62e85077ef4c31f0800000000000000
+      internalID: -1063887556525366673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 528
+        width: 119
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe666070a5327630800000000000000
+      internalID: 3923257188589924026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_10
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 528
+        width: 107
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6871f1944cf62540800000000000000
+      internalID: 4982947409168529518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_11
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 530
+        width: 105
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70d2afad05160060800000000000000
+      internalID: 6919241026026786941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_12
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 530
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b1ea331dae07e60800000000000000
+      internalID: 7958118725799779181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 418
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaae8d62b3e83f0b0800000000000000
+      internalID: -5696052718987580758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 418
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb9da1ba69a0afe0800000000000000
+      internalID: -1179756826658497607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 417
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7127bffc7326e7c50800000000000000
+      internalID: 6664872490406998551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 417
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4335cbd607cf68300800000000000000
+      internalID: 254167988800607028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_24
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 416
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9d77c1d8d134e20800000000000000
+      internalID: 3333540641089509798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_25
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 416
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971e2ddd9459db990800000000000000
+      internalID: -7368569270821527175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_26
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 416
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29fba4944e336e20800000000000000
+      internalID: 3342583812712036652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 416
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59083eb1763716430800000000000000
+      internalID: 3774424849399906453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_28
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 416
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61935fcb4f4fac910800000000000000
+      internalID: 1858567128223136022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_29
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 418
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c2809b0592da10800000000000000
+      internalID: 1932771066997031387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_30
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 418
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809fd11e4988839a0800000000000000
+      internalID: -6253097909590558456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 274
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270cd836099a58120800000000000000
+      internalID: 2415523212764758130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 274
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a957ea000e5fa4b70800000000000000
+      internalID: 8884183557374637466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 273
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4cdde758188d8a0800000000000000
+      internalID: -6280127270009060166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_49
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 273
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae186211cea038d70800000000000000
+      internalID: 9044084485706383850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_50
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 272
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2799aec63db1af810800000000000000
+      internalID: 1799781595967297906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_51
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 272
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eab337d28fca010800000000000000
+      internalID: 1201608074691587688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 272
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ec07d3d7d356150800000000000000
+      internalID: 5865161697830948452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_53
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 272
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b87c7c9c0ab86d0800000000000000
+      internalID: -2987117139329578175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_54
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 272
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7c78ad0de892e80800000000000000
+      internalID: -8202868218607974420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_55
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 274
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1f2478c67e93050800000000000000
+      internalID: 5780906050018537949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_56
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 274
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dbef613600ab7b0800000000000000
+      internalID: -5207849593513001586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_57
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 163
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51af15098312480d0800000000000000
+      internalID: -3421573290071557611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_58
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 160
+        width: 119
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa323769e69787f20800000000000000
+      internalID: 3420617432865383338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_59
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 160
+        width: 107
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1b0a762ce7c86a0800000000000000
+      internalID: -6445637593246682686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_60
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 162
+        width: 105
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793fec2698a157160800000000000000
+      internalID: 7022548371324728215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_beast_61
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 162
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34df3e01a8cc3780800000000000000
+      internalID: -8701859785932286918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
